@@ -1,9 +1,8 @@
-Be<.Code.>
-"In Code We Trust"
-Lovelace 3.9
+> *BeCode* <br/>
+"In Code We Trust" <br/>
+Lovelace 3.9 <br/>
 
-Dossier des exo, prepa, veille et projets disponible 
-à la consultation, copie ou autre sous licence MIT (voir le fichier LICENSE.md) pour tous
+Dossier des exo, prepa, veille et projets disponible à la consultation, copie ou autre sous licence MIT (voir le fichier LICENSE.md) pour tous
 
 Les mises à jour viendront, régulièrement je l'espère ;)
 
