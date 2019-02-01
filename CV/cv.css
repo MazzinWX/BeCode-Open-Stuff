@@ -1,0 +1,15 @@
+.principal  {min-width: 300px; max-width: 700px; margin:auto; border-left: 50px; border-right: 50px ; font-size: 0.8em}
+h3    {background-color: darkcyan; text-align: center}
+
+
+.header {min-width: 240px; height: 250px;margin-bottom: 10px}
+    .hd-photo   {float: left; max-width: 240px; width: 240px}
+    .hd-profil  {float: right;max-width: 300px;text-align: right; padding: 20px; border-right: 10px; margin-right: 10px; margin-top: 20px; border: 2px solid darkcyan}
+
+.core   {margin-bottom: 50px; max-width: 750px;}
+
+.core-gauche    {display: inline-block; float:left}
+        .col-gauche   {float: left; width: 50%;background-color: lightcyan}
+        .col-droite {float: right; width: 50%;background-color: lightcyan}
+
+.core-droite    {display: inline-block; float: right; margin-left: 10px}
